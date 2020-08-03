@@ -7,6 +7,13 @@ molecool
 
 A Python package for analyzing and visualizing molecular structures. For MSF bootcamp.
 
+This repository is currently under development. To do a developmental install, download 
+this repository and run
+
+`pip install -e .`
+
+in the repository directory.
+
 ### Copyright
 
 Copyright (c) 2020, James Krieger
