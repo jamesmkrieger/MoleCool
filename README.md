@@ -14,6 +14,10 @@ this repository and run
 
 in the repository directory.
 
+This package requires the following:
+  - numpy
+  - matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, James Krieger
