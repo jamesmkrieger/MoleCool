@@ -18,6 +18,12 @@ This package requires the following:
   - numpy
   - matplotlib
 
+Features should be developed on branches. To create and switch to a branch, use
+
+`git checkout -b`
+
+with a branch name.
+
 ### Copyright
 
 Copyright (c) 2020, James Krieger
