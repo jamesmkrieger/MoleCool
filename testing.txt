@@ -1,3 +1,11 @@
+*******************************
+This is the start of testing.txt
+*******************************
+
 This file was added in my molecule_friend folder.
 
 Now I've added a new line.
+
+*******************************
+This is the end of testing.txt
+*******************************
