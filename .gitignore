@@ -107,3 +107,6 @@ ENV/
 
 # emacs
 *~
+
+# vscode
+.vscode/
